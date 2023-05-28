@@ -1,6 +1,6 @@
 {
   "name": "tempreact",
-  "homepage": "https://kiosop.github.io/temperatureReact",
+  "homepage": "https://kiosop.github.io/WeatherWizard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
